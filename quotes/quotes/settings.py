@@ -27,6 +27,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'core.apps.CoreConfig',
+    'reactshedularDj.apps.CoreConfig',
     'corsheaders',
 ]
 
